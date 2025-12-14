@@ -5,3 +5,6 @@ cat -> Exibir conteúdo do arquivo
 rm -> remove arquivo do diretório
 rm -rf -> remove de forma recursiva todos os diretórios
 git log -> histórico de todos os commits
+git config --global user.name -> para ver o nome
+git config --global user.email -> para ver o e-mail
+git log -> histórico de todos os commits
