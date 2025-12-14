@@ -1,3 +1,4 @@
 git init . -> cria um repo git na pasta atual
 git status -> mostra os status do trabalho 
+git log -> histórico de todos os commits
 
