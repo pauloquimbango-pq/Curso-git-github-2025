@@ -1,0 +1,3 @@
+ls -> Listar o que está dentro do documento
+pwd -> para ver onde é que estamos;
+cd -> para mudar de pasta
