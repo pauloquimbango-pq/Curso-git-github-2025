@@ -8,3 +8,4 @@ git log -> histórico de todos os commits
 git config --global user.name -> para ver o nome
 git config --global user.email -> para ver o e-mail
 git log -> histórico de todos os commits
+
