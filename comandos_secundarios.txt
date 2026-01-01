@@ -5,3 +5,5 @@ novos teste, secundário.
 -- comando genéricos
 
 # comandos estranhos
+
+- mais comandos 
