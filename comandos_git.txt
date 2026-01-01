@@ -5,4 +5,6 @@ git log -> histórico de todos os commits
 git diff 
 
 teste
+mensagem estanha
+novos testes
 
