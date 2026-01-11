@@ -29,3 +29,7 @@ Pessoas Participantes
 * Paulo
 * Uziel
 * 
+
+
+Está tudo bem até agora.
+estou a gostar de tudo.
